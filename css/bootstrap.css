@@ -55,6 +55,10 @@ a:focus {
 a:hover, a:active {
   outline: 0;
 }
+footer p{
+  color: #999;
+  float: right;
+}
 sub, sup {
   position: relative;
   font-size: 75%;
