@@ -154,7 +154,7 @@ a:hover {
   width: 220px;
 }
 .span4 {
-  width: 300px;
+  width: 365px;
 }
 .span5 {
   width: 380px;
@@ -177,7 +177,7 @@ a:hover {
 .span11 {
   width: 860px;
 }
-.span12, .container {
+.span12 {
   width: 940px;
 }
 .offset1 {
@@ -268,7 +268,7 @@ a:hover {
   width: 99.99999998999999%;
 }
 .container {
-  width: 940px;
+  width: 768px;
   margin-left: auto;
   margin-right: auto;
   *zoom: 1;
