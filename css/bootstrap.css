@@ -3385,3 +3385,9 @@ a.thumbnail:hover {
 .invisible {
   visibility: hidden;
 }
+
+.web_application_development,.mobile_development,.servicechannel_logo,.fixxbook_logo{background:url("../images/sprites.jpg") no-repeat 0 0}
+    .servicechannel_logo{background-position:0 0;float:left;margin:4px 12px 0 0;width:209px;height:61px}
+    .fixxbook_logo{background-position:0 -61px;float:left;margin:4px 12px 0 0;width:209px;height:84px}
+    .web_application_development{background-position:0 -145px;width:170px;height:156px;float:left}
+    .mobile_development{background-position:0 -301px;width:170px;height:156px;float:left}
